@@ -12,3 +12,4 @@ func main() {
 // fmt.Println() nedir? : fmt.Println() fonksiyonu, bir dizeyi konsola yazdırmak için kullanılır.
 // go run main.go komutu ile çalıştırılır.
 // go build main.go komutu ile çalıştırılabilir dosya oluşturulur.
+// go test main.go komutu ile test dosyası çalıştırılır.
